@@ -16,6 +16,10 @@ img{
   margin-right: auto;
 }
 
+figcaption{
+  text-align: center;
+}
+
 #featured-property > p {
   text-align: center;
   margin: auto;
