@@ -10,3 +10,7 @@ body {
   height: 100%;
   margin: auto;
 }
+
+section#featured-property > p {
+  text-align: center;
+}
