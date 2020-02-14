@@ -19,4 +19,5 @@ img{
 #featured-property > p {
   text-align: center;
   margin: auto;
+  width: 500;
 }
