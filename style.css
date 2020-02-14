@@ -11,7 +11,7 @@ body {
   margin: auto;
 }
 img{
-  text-align: center;
+  float: center;
 }
 
 #featured-property > p {
