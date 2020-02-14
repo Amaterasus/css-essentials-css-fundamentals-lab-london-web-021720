@@ -11,6 +11,6 @@ body {
   margin: auto;
 }
 
-section#featured-property > p {
+#featured-property > p {
   text-align: center;
 }
