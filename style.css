@@ -30,4 +30,9 @@ figcaption{
   text-align: center;
   margin: auto;
   width: 800px;
+  padding: 10px;
+}
+
+#details {
+  display: block;
 }
