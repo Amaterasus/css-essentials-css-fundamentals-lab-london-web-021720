@@ -10,6 +10,9 @@ body {
   height: 100%;
   margin: auto;
 }
+img{
+  align-items: center;
+}
 
 #featured-property > p {
   text-align: center;
